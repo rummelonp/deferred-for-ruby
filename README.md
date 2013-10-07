@@ -1,5 +1,9 @@
 # Deferred
 
+[![Build Status](https://travis-ci.org/mitukiii/deferred-for-ruby.png?branch=master)][travis]
+
+[travis]: https://travis-ci.org/mitukiii/deferred-for-ruby
+
 Port of jQuery.Deferred to Ruby
 
 ## Installation
